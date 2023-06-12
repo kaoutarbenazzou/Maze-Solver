@@ -1,2 +1,2 @@
 # Maze-Solver
-Mini Project, Mini Packman
+Mini Project, Mini Packman 👾
